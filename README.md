@@ -149,13 +149,3 @@ To run the test scenarios, need to have followings on your machine:
 
   ![Failure Screenshot](https://github.com/swatinerkar/selenium-testng-demo-project/blob/main/images/Sample_Attached_Failure_Screenshot.png)
 
-## 🚀 About Me
-
-I'm a Software Automation Tester, having 11+ years of experience.
-
-Please have a look on my Portfolio: [@swatinerkar](https://swatinerkar.wordpress.com/)
-
-My LinkedIn Profile: [@swatinerkar](https://www.linkedin.com/in/swatinerkar/)
-
-If you would like to have some guidence, you can book any of my service: [@swatinerkar](https://topmate.io/swati_nerkar)
-
